@@ -1,3 +1,5 @@
 # my project2
 
-practicing version control system
+practicing version control system.
+
+created by Srk.
